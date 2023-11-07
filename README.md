@@ -1,7 +1,9 @@
 Подготовка
 
 версия node выше 18.16
+
 npm i -g @vue/cli
+
 npm i -g typescript
 
 Установка
